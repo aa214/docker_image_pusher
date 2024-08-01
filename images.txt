@@ -1,1 +1,1 @@
-wenetorg/wenet-mini:latest
+mobvoiwenet/wenet:latest
