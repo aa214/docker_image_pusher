@@ -1,2 +1,1 @@
-pytorch/pytorch:2.3.1-cuda12.1-cudnn8-devel
-pytorch/pytorch:2.2.2-cuda12.1-cudnn8-devel
+wenetorg/wenet-mini:latest
