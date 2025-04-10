@@ -1,4 +1,1 @@
-redis:5.0.8-alpine
-python:3.7-alpine
-node:13.13.0-alpine
-nginx:1.17.10-alpine
+mysql:5.7
