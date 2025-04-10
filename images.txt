@@ -1,1 +1,4 @@
-pytorch/pytorch:2.1.0-cuda11.8-cudnn8-devel
+redis:5.0.8-alpine
+python:3.7-alpine
+node:13.13.0-alpine
+nginx:1.17.10-alpine
