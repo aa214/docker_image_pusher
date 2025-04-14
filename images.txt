@@ -1,9 +1,1 @@
-postgres:15-alpine
-redis:7.2.3-alpine
-apache/kvrocks:2.7.0
-traefik:v3.3
-openpolicyagent/opa:0.63.0
-clickhouse/clickhouse-server:23.11-alpine
-timberio/vector:0.26.0-alpine
-grafana/grafana-oss:10.1.2
-cvat/server:dev
+ redis:7.2.3-alpine
