@@ -1,1 +1,1 @@
-cvat/ui:dev
+unstructured-api:latest
