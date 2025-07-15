@@ -1,1 +1,1 @@
-unstructured-api:latest
+unstructured-io/unstructured-api
