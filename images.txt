@@ -1,1 +1,1 @@
-python
+neo4j:5.23.0
